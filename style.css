@@ -1,0 +1,77 @@
+body {
+  background: linear-gradient(to bottom, #3EB489, #ffb6c1);
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  background-color: #fff;
+  width: 500px;
+  padding: 20px;
+  margin: 40px auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #e34763;
+}
+
+h1 {
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+fieldset {
+  border: none;
+}
+
+legend {
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  height: 35px;
+  padding: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #050505;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.enviar {
+  width: 50%;
+  border-radius: 20px;
+  background-color: #93E9BE;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 28px auto;
+  display: block;
+}
+
+#statusSenha {
+  font-weight: bold;
+  display: block;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
+#forcaSenha {
+  height: 8px;
+  width: 100%;
+  background-color: #ddd;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+#forcaSenha div {
+  height: 100%;
+  transition: width 0.3s;
+}

@@ -20,7 +20,7 @@ Aplicar os conhecimentos de **JavaScript** para validar e interagir com um formu
   3. ✅ Mostrar um `alert()` após o envio com o nome e o email da pessoa cadastrada.
   4. ✅ Verificar e Corrigir o problema de validação entre o campo **senha** e **confirmação de senha**.
 
-## 👩‍🎨 Créditos
+## 👩‍💻 Créditos
 
 Estilização do formulário feita por: [Camille Reis](https://github.com/reiscami)
 

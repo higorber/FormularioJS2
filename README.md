@@ -1,6 +1,6 @@
 # 📄 FormularioJS2
 
-Atividade prática da disciplina de **Desenvolvimento Front-End**.
+Atividade prática da disciplina de **Desenvolvimento Front-End**. Para ser entregue na Semana 12.
 
 ## 🎯 Objetivo
 

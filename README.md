@@ -1,10 +1,10 @@
 # 📄 FormularioJS2
 
-Atividade prática da disciplina de **Desenvolvimento Front-End com JavaScript**.
+Atividade prática da disciplina de **Desenvolvimento Front-End**.
 
 ## 🎯 Objetivo
 
-Aplicar os conhecimentos de **JavaScript** para validar e interagir com um formulário já desenvolvido em **HTML e CSS** durante a semana 9.
+Aplicar os conhecimentos de **JavaScript** para validar e interagir com um formulário já desenvolvido em **HTML e CSS** anteriormente.
 
 ## 📝 O que deve ser feito
 
@@ -18,16 +18,12 @@ Aplicar os conhecimentos de **JavaScript** para validar e interagir com um formu
      - Pelo menos **1 número**
      - Pelo menos **1 símbolo**
   3. ✅ Mostrar um `alert()` após o envio com o nome e o email da pessoa cadastrada.
-  4. ✅ Corrigir o problema de validação entre o campo **senha** e **confirmação de senha**.
-  5. ⭐ **Desafio extra (vale pontos)**: detectar e corrigir o erro de validação da senha. Dica: o problema ocorre quando o usuário altera a senha **após** ter digitado a confirmação.
-
-## 💡 Dica
-
-Qualquer **validação extra** feita com bom senso será considerada para pontos extras (ex: verificar e-mail, nome completo, exibir mensagens mais claras, etc).
+  4. ✅ Verificar e Corrigir o problema de validação entre o campo **senha** e **confirmação de senha**.
+  6. 
 
 ## 👩‍🎨 Créditos
 
-Estilização do formulário feita por: **Camille Reis**  
+Estilização do formulário feita por: [Camille Reis](https://github.com/reiscami)
 JavaScript orientado pelo professor.
 
 ---
